@@ -1,0 +1,142 @@
+Page:mr.hout
+ <head>
+  
+    <STYLE>
+    body{
+        width: 25%;
+        margin: auto;
+    }
+
+        table,tr,th,td{
+            border: 1px solid rgb(0, 0, 0);
+            border-collapse: collapse;
+            padding: 30px;
+            width: 40px;
+            text-align: center;
+            font-size: 16px;
+        
+        }
+
+
+            th{
+                <background-color: rgb;(255, 0, 0)
+            }
+            td{
+                background-color: whitesmoke;
+
+            }
+
+            
+        
+
+        }
+    </STYLE>
+ </head>
+    <body>
+        
+        <table>
+            <tr>
+                <th>No.</th>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Phone Number</th>
+                
+                
+
+            </tr>
+            <TR>
+                    <td>1.</td>
+                <td>HOUT</td>
+                    <td>18+</td>
+                    <td>0000000</td>
+                    
+                </TR>
+                <TR>
+                    <td>2.</td>
+                    <Td>Leap</Td>
+                    <td>47</td>
+                    <Td>0945877383</Td>
+                </TR>
+                <TR>
+                    <td>3.</td>
+                    <td>Sokmean</td>
+                    <td>15</td>
+                    <td>0956725768</td>
+                </TR>
+                <TR>
+                    <td>4.</td>`
+                    <td>Lay Kiv</td>
+                    <td>99</td>
+                    <td>0784756488</td>
+                </TR>
+                <TR>
+                    <td>5.</td>
+                    <td>Tino</td>
+                    <td>34</td>
+                    <td>អ៊ុតសារូមមែន</td>
+                </TR>
+                <tr>
+                    <td>6.</td>
+                    <td>Sna</td>
+                    <td>27</td>
+                    <td>084627666</td>
+                </tr>
+                <tr>
+                    <td>7.</td>
+                    <td>Jingjork</td>
+                    <td>46</td>
+                    <td>real madrid</td>
+                </tr>
+                <tr>
+                    <td>8.</td>
+                    <td>vannda</td>
+                    <td>18</td>
+                    <td>0999999999</td>
+                </tr>
+                <tr>
+                    <td>9.</td>
+                    <td>mbappe</td>
+                    <td>23</td>
+                    <td>091111137</td>
+                </tr>
+                <tr>
+                    <td>10.</td>
+                    <td>Messi</td>
+                    <td>39</td>
+                    <td>GOATTTT</td>
+                </tr>
+                <tr>
+                    <td>11.</td>
+                    <td>ounri</td>
+                    <td>99</td>
+                    <td>02222234</td>
+                </tr>
+                <tr>
+                    <td>12.</td>
+                    <td>cr7</td>
+                    <td>17</td>
+                    <td>noob</td>
+                </tr>
+                <tr>
+                    <td>13.</td>
+                    <td>Sun Wukong</td>
+                    <td>infinety</td>
+                    <td>God</td>
+                </tr>
+                <tr>
+                    <td.</td>
+                    <td>14.</td>
+                    <td>jrik</td>
+                    <td>ishowspeed</td>
+                    <td>000000</td>
+                </tr>
+                </tr>
+        </table>
+    </body>
+</html>
+
+
+
+
+
+
